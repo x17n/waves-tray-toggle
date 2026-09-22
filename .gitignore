@@ -1,0 +1,8 @@
+# Windows cruft
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editors
+.vscode/
+.idea/
