@@ -5,7 +5,7 @@
 <h1 align="center">WavesTray</h1>
 
 <p align="center">
-  A portable Windows tray utility for toggling the Waves MaxxAudio service when you need headphone-jack detection—without leaving its RAM usage running all day.
+  A portable Windows tray utility for toggling the Waves MaxxAudio service when you need headphone-jack detection, without leaving its RAM usage running all day.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/tray-menu.png" alt="WavesTray context menu with Enable Waves, Disable Waves, and Exit" width="480">
+  <img src="docs/images/tray-menu.png" alt="WavesTray context menu with Enable Waves, Disable Waves, and Exit" width="280">
 </p>
 
 > [!IMPORTANT]
