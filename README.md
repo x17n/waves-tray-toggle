@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/tray-menu.png" alt="WavesTray context menu with Enable Waves, Disable Waves, and Exit" width="280">
+  <img src="docs/images/tray-menu.png?v=2" alt="WavesTray context menu with Enable Waves, Disable Waves, and Exit" width="280">
 </p>
 
 > [!IMPORTANT]
